@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+div{
+    background: white;
+    border:1px solid white;
+    border-radius: 5px;
+    margin-top:50px;
+    padding-left:20px;
+    display:block;
+    width: fit-content;
+    padding:2px 200px 2px 15px;
+    margin-left:200px;
+    
+
+    
+}
+#price-el,
+#pri-el {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pri-el img {
+    width: 30px;
+    height: 30px;
+}
